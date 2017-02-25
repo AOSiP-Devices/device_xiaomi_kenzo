@@ -45,8 +45,7 @@
    "branch"     : "cm-14.1"
  },
  {
-   "repository" : "TheMuppets/proprietary_vendor_xiaomi",
-   "target_path": "vendor/xiaomi",
-   "branch"     : "cm-14.1"
+   "repository" : "platform_vendor_xiaomi",
+   "target_path": "vendor/xiaomi"
  }
 ]
