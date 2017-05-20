@@ -19,7 +19,7 @@
    "branch"     : "cm-14.1"
  },
  {
-   "repository" : "AOSiP-Devices/proprietary_vendor_xiaomi",
+   "repository" : "AOSiP-Devices/platform_vendor_xiaomi",
    "target_path": "vendor/xiaomi",
  }
 ]
