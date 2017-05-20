@@ -20,6 +20,6 @@
  },
  {
    "repository" : "AOSiP-Devices/platform_vendor_xiaomi",
-   "target_path": "vendor/xiaomi",
+   "target_path": "vendor/xiaomi"
  }
 ]
