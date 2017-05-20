@@ -4,9 +4,9 @@
    "target_path": "device/xiaomi/msm8956-common"
  },
  {
-   "repository" : "ResurrectionRemix-Devices/kernel_xiaomi_msm8956",
+   "repository" : "LineageOS/andorid_kernel_xiaomi_msm8956",
    "target_path": "kernel/xiaomi/msm8956",
-   "branch"     : "nougat"
+   "branch"     : "cm-14.1"
  },
  {
    "repository" : "LineageOS/android_hardware_cyanogen",
@@ -19,8 +19,7 @@
    "branch"     : "cm-14.1"
  },
  {
-   "repository" : "ResurrectionRemix-Devices/proprietary_vendor_xiaomi",
+   "repository" : "AOSiP-Devices/proprietary_vendor_xiaomi",
    "target_path": "vendor/xiaomi",
-   "branch"     : "nougat"
  }
 ]
