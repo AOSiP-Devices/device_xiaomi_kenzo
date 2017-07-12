@@ -4,7 +4,7 @@
    "target_path": "device/xiaomi/msm8956-common"
  },
  {
-   "repository" : "LineageOS/andorid_kernel_xiaomi_msm8956",
+   "repository" : "LineageOS/android_kernel_xiaomi_msm8956",
    "target_path": "kernel/xiaomi/msm8956",
    "branch"     : "cm-14.1"
  },
