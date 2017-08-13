@@ -20,7 +20,6 @@
 DEVICE_PATH := device/xiaomi/kenzo
 
 # Assertions
-TARGET_BOARD_INFO_FILE ?= $(DEVICE_PATH)/board-info.txt
 TARGET_OTA_ASSERT_DEVICE := kate,kenzo
 
 # Bluetooth
@@ -31,7 +30,7 @@ BOARD_SYSTEMIMAGE_PARTITION_SIZE := 2684354560
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 26838785024 # 26838801408 - 16384
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_kenzo_defconfig
+TARGET_KERNEL_CONFIG := kenzo_defconfig
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
